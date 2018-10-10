@@ -1,0 +1,2 @@
+Pour cela nous devrions utiliser la commande :         'echo "46.19.122.85 intra.42.fr" >> /etc/hosts'
+Seulement nous n'avons pas les droits.

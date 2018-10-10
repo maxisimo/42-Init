@@ -1,0 +1,2 @@
+Le fichier aui contient les clefs RSA autorisees a se connecter via ssh est :
+'.ssh/authorized_keys'. On peux savoir cela apres avoir regarde dans '/etc/ssh/sshd_config'.
